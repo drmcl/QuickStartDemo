@@ -8,6 +8,8 @@ public class Main {
         whoami.setOccupation(" Dogsbody");
         System.out.println("Hello " + whoami.toString());
 
+        DavesClass dave = new DavesClass();
+
         //comment Mary was here!!!
     }
 
