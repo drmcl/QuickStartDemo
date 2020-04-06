@@ -7,6 +7,8 @@ public class Main {
         whoami.setName("Dave ");
         whoami.setOccupation(" Dogsbody");
         System.out.println("Hello " + whoami.toString());
+
+        //comment Mary was here!!
     }
 
 }
